@@ -92,7 +92,7 @@ current_focus = {
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Qandeel fatima&label=Profile+Views&color=7F77DD&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=QandeelFatima&label=Profile+Views&color=7F77DD&style=flat" />
 </p>
 
 > *"Every expert was once a beginner. I'm building, learning, and growing — one commit at a time."*
