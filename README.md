@@ -1,4 +1,4 @@
- Hi there, I'm Qandeel Fatima 👋
+<img width="944" height="323" alt="image" src="https://github.com/user-attachments/assets/6e098741-bbe1-42df-965a-e398fd409e42" /> Hi there, I'm Qandeel Fatima 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F77DD&width=500&lines=BSCS+Student+%40+Superior+University+Lahore;Full-Stack+Developer+in+Progress;Open+to+Internships+%26+Opportunities!" alt="Typing SVG" />
 
@@ -92,7 +92,7 @@ current_focus = {
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=QandeelFatima&label=Profile+Views&color=7F77DD&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=qandeel47&label=Profile+Views&color=7F77DD&style=flat" />
 </p>
 
 > *"Every expert was once a beginner. I'm building, learning, and growing — one commit at a time."*
